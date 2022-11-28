@@ -13,7 +13,7 @@ decrease.addEventListener("click", function () {
     }
 });
 increase.addEventListener("click", function () {
-    if (digit >= 5){
+    if (digit >= 50){
         alert("We cannot go greater than 50!");
     } else {
         
